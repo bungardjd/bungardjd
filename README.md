@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bungardjd
-- 👀 I’m interested in learning various coding languages (Python, JS, C#, C++) and applying to machine learning for scientific applications, data analysis, and web development.
+- 👀 I’m interested in learning various coding languages (Python, JS, C#, C++) and applying machine learning for scientific applications, data analysis, and web development.
 - 🌱 I’m currently learning Python and Machine Learning
 
 <!---
